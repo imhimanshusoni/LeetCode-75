@@ -2,11 +2,11 @@
 
 To utilize this approach, it is essential to comprehend the Bitwise XOR operator. Many individuals with a background in physics, typically at the high school level, are familiar with logic gates. One such gate is the XOR Gate, which states that the output is true only when the inputs are of opposite types. In other words:
 
-A B Y
-0 0 0
-0 1 1
-1 0 1
-1 1 0
+A B Y  
+0 0 0  
+0 1 1  
+1 0 1  
+1 1 0  
 
 
 We extend this gate's concept to our bitwise XOR operator. When we perform "a^b," it means that we are applying the XOR gate to the two numbers in a bitwise manner, considering each corresponding bit of the numbers. Similarly, we can observe the following:
