@@ -3,13 +3,9 @@
 To utilize this approach, it is essential to comprehend the Bitwise XOR operator. Many individuals with a background in physics, typically at the high school level, are familiar with logic gates. One such gate is the XOR Gate, which states that the output is true only when the inputs are of opposite types. In other words:
 
 A B Y
-
 0 0 0
-
 0 1 1
-
 1 0 1
-
 1 1 0
 
 
